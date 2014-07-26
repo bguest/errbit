@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '~> 4.1.1'
+gem 'rake', '10.3.2'
 
 gem 'pg'
 gem 'counter_culture'

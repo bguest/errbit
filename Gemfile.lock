@@ -436,6 +436,7 @@ DEPENDENCIES
   rails (~> 4.1.1)
   rails-observers
   rails_autolink
+  rake (= 10.3.2)
   ransack
   ri_cal
   rinku
