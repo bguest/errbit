@@ -93,6 +93,7 @@ end
 
 group :development do
   gem 'capistrano', '~> 2.0', :require => false
+  gem 'capistrano-sidekiq'
 
   # better errors
   gem 'better_errors'
@@ -102,7 +103,6 @@ group :development do
 
   # Use puma for development
   gem 'puma', :require => false
-
 end
 
 group :test do
